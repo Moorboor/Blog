@@ -11,16 +11,3 @@
     ]
   ]
 }
-{
-  "navigation": [
-    ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
-    ["Instagram", "https://www.instagram.com/moorboor/"],
-    [
-      "Expandable",
-      [
-        ["Instagram", "https://www.instagram.com/moorboor/"],
-        ["Nested Expandable", [["Nested x2 Example", "/example-nested-x2"]]]
-      ]
-    ]
-  ]
-}
