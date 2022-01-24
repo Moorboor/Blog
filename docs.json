@@ -1,6 +1,7 @@
 {
   "navigation": [
-    ["Example", "/example"],
+    ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
+    ["Instagram", "https://www.instagram.com/moorboor/"],
     [
       "Expandable",
       [
