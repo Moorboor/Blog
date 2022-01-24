@@ -1,5 +1,12 @@
 {
   "navigation": [
+    ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
+    ["Instagram", "https://www.instagram.com/moorboor/"]
+  ]
+}
+
+{
+  "navigation": [
     ["Example", "/example"],
     [
       "Expandable",
@@ -13,9 +20,3 @@
 
 
 
-{
-  "navigation": [
-    ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
-    ["Instagram", "https://www.instagram.com/moorboor/"]
-  ]
-}
