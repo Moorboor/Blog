@@ -5,7 +5,7 @@
     [
       "Expandable",
       [
-        ["Nested Example", "/example-nested"],
+        ["Instagram", "https://www.instagram.com/moorboor/"],
         ["Nested Expandable", [["Nested x2 Example", "/example-nested-x2"]]]
       ]
     ]
