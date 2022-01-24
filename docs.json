@@ -1,1 +1,6 @@
-# some json code
+{
+  "navigation": [
+    ["Example", "/example"],
+    ["External", "https://google.com"]
+  ]
+}
