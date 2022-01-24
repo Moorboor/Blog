@@ -4,3 +4,10 @@
     ["Instagram", "https://www.instagram.com/moorboor/"]
   ]
 }
+
+{
+  "docsearch": {
+    "apiKey": "a6461148de9876cf7c322b6cf1728657",
+    "indexName": "myblog"
+  }
+}
