@@ -1,13 +1,24 @@
 {
+  "name": "Maik's Blog",
+  "theme": "#36B9B9",
+  "twitter": "moorboor",
+  "sidebar": [
+    ["Overview", "/"],
+    ["Getting Started", "/getting-started"],
+    ["Configuration", "/configuration"],
+    ["Previews", "/previews"],
+    ["Custom Domains", "/custom-domains"],
+    ["Components", "/components"],
+    ["Frontmatter", "/frontmatter"],
+    ["GitHub Bot", "/github-bot"],
+    ["Search", "/search"],
+    ["Debugging", "/debugging"],
+    ["Pre-rendering", "/pre-rendering"],
+    ["Advanced", "/advanced"],
+    ["Contributing", "/contributing"]
+  ],
   "navigation": [
     ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
-    ["Instagram", "https://www.instagram.com/moorboor/"],
-    [
-      "Expandable",
-      [
-        ["Instagram", "https://www.instagram.com/moorboor/"],
-        ["Nested Expandable", [["Nested x2 Example", "/example-nested-x2"]]]
-      ]
-    ]
-  ]
+    ["Instagram", "https://www.instagram.com/moorboor/"]
+   ]
 }
