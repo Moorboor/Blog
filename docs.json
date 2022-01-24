@@ -4,7 +4,7 @@
   "twitter": "maikimoor",
   "sidebar": [
     ["Welcome", "/"],
-    ["My first blog", "/second"]
+    ["My first blog", "/docs/second"]
   ],
   "navigation": [
     ["Youtube", "https://www.youtube.com/channel/UCCrglnRux8qP4WaZvJnoo0w"],
